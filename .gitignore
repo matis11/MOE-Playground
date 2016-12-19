@@ -1,0 +1,66 @@
+# Keystores
+keystore.properties
+slidecase.keystore
+
+#Android generated
+bin/
+gen/
+lint.xml
+
+#IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+classes
+gen-external-apklibs
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+#Gradle
+.gradle
+build/
+
+# Crashlytics plugin
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+#Other
+.DS_Store
+tmp
+*.swp
+*.tmp
+*.bak
+*.swp
+*.launch
+
+
+# Created by https://www.gitignore.io/api/xcode
+
+### Xcode ###
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## Build generated
+build/
+DerivedData/
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
